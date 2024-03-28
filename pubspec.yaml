@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  o3d: ^2.0.0
+  # babylonjs_viewer: ^1.2.1
+    # webview_flutter: ^4.7.0
+  # model_viewer_plus: ^1.7.2
 
 
   cupertino_icons: ^1.0.6
@@ -26,5 +30,6 @@ flutter:
   uses-material-design: true
 
 
-
+assets: 
+  - assets/
 
